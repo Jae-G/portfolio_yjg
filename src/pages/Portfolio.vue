@@ -2,7 +2,7 @@
   <div>
     <v-card flat>
       <v-card-title class="text-h4">
-        포트폴리오
+        PortFolio
       </v-card-title>
     </v-card>
   </div>
